@@ -1,15 +1,70 @@
 body {
-    width: 800px;
+    margin: 0px;
 }
 
 header {
-    background-color: yellow;
-    height: 50px;
-    padding: 5px;
+    font-family: 'Raleway', sans-serif;
+    background-color: #FF1744;
+    height: 160px;
+    padding: 2%;
+    margin: 0px;
 }
 
 header p {
+    display: block;
+    font-weight: 800;
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    font-size: 70;
+}
+
+#corpo {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 16%;
+    margin-right: 16%;
+    margin-top: 0px;
+}
+
+#chisiamo {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 40px;
+}
+
+#chisiamo p {
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 18;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#rigafoto {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+#foto {
     float: left;
-    color: red;
-    font-size: 30;
+    position: relative;
+    left: 10%;
+    width: 150px;
+    margin: 30px;
+}
+
+#foto img {
+    border-radius: 180px;
+    width: 150px;
+}
+
+#foto a {
+    color: #FF1744;
+    font-weight: 500;
+    text-align: center;
+    font-size: 18;
 }
