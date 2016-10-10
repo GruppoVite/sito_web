@@ -61,24 +61,25 @@ body {
 }
 
 #gruppo {
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-bottom: 40px;
-    padding-top: 10px;
-    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 1vw;
+    margin: 0px;
 }
 
 .col-sm-6 {
-	padding-left: 40px;
-	padding-right: 40px;
-	padding-bottom: 40px;
+	padding-left: 3vw;
+	padding-right: 3vw;
+	padding-bottom: 3vw;
 }
 
 h2 {
 	margin-left: 40px;
 	font-weight: 700;
-    margin-top: 0px;
+    padding-top: 46px;
     margin-bottom: 0px;
+    margin-top: 0px;
 }
 
 h3 {
