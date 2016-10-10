@@ -143,13 +143,17 @@ footer p {
 }
 
 #murmy {
-  margin-top: 120px;
+  margin-top: 3vW;
 }
 
 #russialogo {
   margin-left: 5vw;
   margin-right: 5vw;
   margin-top: 
+}
+
+#poster {
+    width: 100%;
 }
 /*
 pasqmorelli [9:57 PM]  
