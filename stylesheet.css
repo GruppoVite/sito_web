@@ -82,6 +82,15 @@ body {
 	padding-bottom: 3vw;
 }
 
+#terzovideo {
+
+  width: 33.5vW;
+  height: 19vW;
+  padding-right: 2vw;
+  padding-left: 2vW;
+  padding-top: 2vw;
+}
+
 h2 {
 	margin-left: 3vw;
 	font-weight: 700;
